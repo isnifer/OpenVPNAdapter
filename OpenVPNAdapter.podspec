@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     with NetworkExtension framework and doesn't use any private Apple API. Compatible with iOS and macOS and also Swift friendly.
   DESC
 
-  s.homepage = "https://github.com/ss-abramchuk/OpenVPNAdapter"
+  s.homepage = "https://github.com/isnifer/OpenVPNAdapter"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source = { :git => "https://github.com/ss-abramchuk/OpenVPNAdapter.git", :tag => "#{s.version}" }
+  s.source = { :git => "https://github.com/isnifer/OpenVPNAdapter.git", :tag => "#{s.version}" }
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
