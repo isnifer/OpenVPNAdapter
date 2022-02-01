@@ -24,7 +24,7 @@ The framework is designed to use in conjunction with [`NetworkExtension`](https:
 To install OpenVPNAdapter with Carthage, add the following line to your `Cartfile`.
 
 ```
-github "ss-abramchuk/OpenVPNAdapter"
+github "isnifer/OpenVPNAdapter"
 ```
 
 Then run `$ carthage update` command. For details of the installation and usage of Carthage, visit [its project page](https://github.com/Carthage/Carthage).
@@ -35,7 +35,7 @@ To install OpenVPNAdapter with Cocoapods, add the following lines to your `Podfi
 ```ruby
 target 'Your Target Name' do
   use_frameworks!
-  pod 'OpenVPNAdapter', :git => 'https://github.com/ss-abramchuk/OpenVPNAdapter.git', :tag => '0.8.0'
+  pod 'OpenVPNAdapter', :git => 'https://github.com/isnifer/OpenVPNAdapter.git', :tag => '0.8.0'
 end
 ```
 
